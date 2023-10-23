@@ -1,3 +1,4 @@
 # pruebas
 
-|Nomobre|Apellido|Edad|
+| Nomobre | Apellido | Edad |
+| ------- | -------- | ---- |
